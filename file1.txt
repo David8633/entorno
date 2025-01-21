@@ -1,2 +1,0 @@
-# /bin/bash 
-echo Hola buenos dias hoy me siento bien La felicidad es encontarte 40€ en una chaqueta
